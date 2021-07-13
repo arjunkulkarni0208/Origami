@@ -1,0 +1,31 @@
+
+h1{
+    color:darkgreen
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #FFFFFF;
+}
+body{
+    background-color: rgb(3, 196, 45);
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin: 10%;
+}
+.menu{
+    font-size: large;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.menu a{
+    margin-left: 15px;
+}
+a:link{
+    color:white
+}
+a:visited{
+    color:rgb(236, 14, 14)
+}
